@@ -9,6 +9,8 @@ public class Class1Test {
 	{
 		Reporter.log("*******************Hiii Maven😎😎😎😎😎***************",true);
 		Reporter.log("*******************Hiii Maven😎😎😎😎😎***************",true);
+		Reporter.log("*******************Hiii Maven😎😎😎😎😎👍👍👍***************",true);
+		
 	}
 
 }
